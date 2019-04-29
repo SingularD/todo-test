@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App.js组件测试 匹配snapshot 1`] = `ShallowWrapper {}`;
